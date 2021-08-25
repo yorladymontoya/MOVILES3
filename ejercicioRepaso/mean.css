@@ -36,7 +36,14 @@
         left: 0;
     }
     to{
-        top: 0;
+        top: 10%;
         left: 500px;
     }
+}
+
+.tarjetas{
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 300px;
 }
